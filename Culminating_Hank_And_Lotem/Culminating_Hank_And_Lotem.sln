@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Culminating_Hank_And_Lotem", "Culminating_Hank_And_Lotem\Culminating_Hank_And_Lotem.csproj", "{C20A4078-49E1-4802-8613-AB75D1914F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20A4078-49E1-4802-8613-AB75D1914F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20A4078-49E1-4802-8613-AB75D1914F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20A4078-49E1-4802-8613-AB75D1914F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20A4078-49E1-4802-8613-AB75D1914F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B2EB7E-4A3C-4E7A-BCF9-F8111EBD91C1}
+	EndGlobalSection
+EndGlobal
